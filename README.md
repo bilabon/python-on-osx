@@ -23,7 +23,7 @@ My configuration
 
 - xcode-select —install
 - Install HomeBrew
-- brew install git, mysql, postgresql, wget, python
+- brew install git, mysql, postgresql, wget, python, gettext
 - pip install virtualenv
 - copy .ssh, .bash_profile
 - http://www.mamp.info/en/downloads/
