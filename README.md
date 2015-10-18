@@ -21,7 +21,7 @@ My configuration
 
 > terminal:
 
-- xcode-select —install
+- xcode-select --install
 - Install HomeBrew
 - brew install git, mysql, postgresql, wget, python, gettext
 - pip install virtualenv
