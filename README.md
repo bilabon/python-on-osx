@@ -29,3 +29,4 @@ My configuration
 - http://www.mamp.info/en/downloads/
 - sudo ln -s /Applications/MAMP/tmp/mysql/mysql.sock /tmp/mysql.sock
 - configure git http://githowto.com/ru
+- brew install libtiff libjpeg webp little-cms2 # http://pillow.readthedocs.org/en/latest/installation.html#building-on-os-x
