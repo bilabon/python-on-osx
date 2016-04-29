@@ -30,3 +30,4 @@ My configuration
 - sudo ln -s /Applications/MAMP/tmp/mysql/mysql.sock /tmp/mysql.sock
 - configure git http://githowto.com/ru
 - brew install libtiff libjpeg webp little-cms2 http://pillow.readthedocs.org/en/latest/installation.html#building-on-os-x
+- https://docs.basho.com/riak/kv/2.0.1/using/performance/open-files-limit/#mac-os-x
