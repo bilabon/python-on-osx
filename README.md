@@ -18,6 +18,7 @@ My configuration
 - Parallels desktop
 - Movies
 - https://centrabit.com/?m0prm=6 Qt Bitcoin Trader
+- https://sequelpro.com
 
 > terminal:
 
