@@ -25,7 +25,7 @@ My configuration
 - xcode-select --install
 - Install HomeBrew
 - brew install git, mysql, postgresql, wget, python, gettext
-- brew install node; npm install -g gulp
+- brew search node; brew install homebrew/versions/node4-lts; 
 - pip install virtualenv
 - copy .ssh, .bash_profile
 - http://www.mamp.info/en/downloads/
