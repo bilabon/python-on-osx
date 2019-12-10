@@ -35,3 +35,8 @@ My configuration
 - brew install libtiff libjpeg webp little-cms2 http://pillow.readthedocs.org/en/latest/installation.html#building-on-os-x
 - https://docs.basho.com/riak/kv/2.0.1/using/performance/open-files-limit/#mac-os-x
 - neo4j https://www.code2bits.com/how-to-install-neo4j-on-macos-using-homebrew/
+
+
+> sublime:
+
+- black formatter: https://github.com/jgirardet/sublack & https://github.com/psf/black
